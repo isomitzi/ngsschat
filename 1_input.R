@@ -14,6 +14,8 @@ library(stringr)
 library(jsonlite)
 library(lubridate)
 library(dplyr)
+library(XML)
+library(httr)
 
 # library(plyr) # careful (this often masks other functions so plyr::func() is used instead)
 
